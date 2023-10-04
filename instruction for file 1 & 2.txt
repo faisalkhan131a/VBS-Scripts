@@ -1,0 +1,21 @@
+1. shutdownSystemWithTimer.vbs
+
+Intro: This vbs script can be used to shut down Windows system after a specific amount of time.
+The time given within the script right now is 1800 seconds or 30 minutes. 
+
+Function and Modification: If this script is run then the windows system will shutdown after 1800 seconds/ 30 minutes.
+This timer can be modified or changed. In order to change the timer, select the .vbs file and then right click on the file and select 'open with' from the options.
+Within 'open with' select 'notepad' and you will successfully open the file with notepad. There you will see a bunch of code.
+One of the lines will contain a code similar to 'shutdown -s -t 1800', edit the amount of time and don't forget to save the changes. Press 'cntrl + s' or manually save it from notepad.
+Then run the .vbs file again and it will run acording to the changes. 
+
+Please note that the timer is programmed in terms of seconds, so any change in the timer must be in seconds for it to work.
+
+
+
+2. shutdownABORT.vbs
+
+Intro: This vbs script stops any previously run script that was supposed to shutdown the system regardless of the timer. 
+Simply, this script neutralizes any shutdown command.
+
+Function and Modification: There is hardly any scope for change i this file, it is pretty straightforward command.
