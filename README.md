@@ -1,1 +1,1 @@
-# VBS-Scripts
+This repository contains simple commands of Windows Operating System (Preferrably Windows 10) in VBS files. These files are designated as 'VBS Scripts' in this repository. Each script is designed to perform one specific goal/ result and it may take one or more steps to achieve that goal/ result. The scripts are built based on the knowledge and data found on the web forums and are often tested before being uploaded here.
